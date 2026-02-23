@@ -212,7 +212,7 @@ while True:
             print("Invoice Not Found")
 
     elif choise == "5":
-        print("Exiting...")
+        print("Exiting....")
         break
 cursor.close()
 conn.close()
